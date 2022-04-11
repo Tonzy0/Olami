@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 Welcome to my page, I'm a curious learner who loves challenges and loves to build amazing stuff.
 * 🔭 I’m currently working on building my personal site. 
 * 🌱 I’m currently learning how to build better and more efficient websites.
@@ -9,4 +9,4 @@ Welcome to my page, I'm a curious learner who loves challenges and loves to buil
 * 📫 You can reach me on Twitter @agboola_Olami
 * 😄 let's have fun!
 * ⚡ Fun fact: I'm probably Marvel biggest fan😊
--->
+
