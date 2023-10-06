@@ -1,6 +1,6 @@
 # Hey 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tonzy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agboola-anthony-53b05a243/)](https://www.linkedin.com/in/agboola-anthony-53b05a243/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tonzy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agboola-anthony-53b05a243/target="blank"/)](https://www.linkedin.com/in/agboola-anthony-53b05a243/)
 
 I'm a Software Engineer, and Frontend Developer currently building projects and learning new technologies. I'm passionate about sharing knowledge, writing, building apps, and others.
 
