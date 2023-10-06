@@ -1,5 +1,5 @@
 ### Hey there 👋
-www.linkedin.com/in/agboola-anthony
+[![My Contact](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/agboola-anthony) 
 
 Welcome to my page, I'm a curious learner who loves challenges and loves to build amazing stuff.
 * 🔭 I’m currently working on building my personal site. 
